@@ -1,7 +1,11 @@
 input {
-  background: blue;
-}
+    background: blue;
+  }
+  
+  div {
+    color: greenyellow;
+  }
 
-div {
-  color: greenyellow;
-}
+  body {
+      background: cadetblue;
+  }
