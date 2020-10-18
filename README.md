@@ -1,3 +1,3 @@
-# web-platform-hykdp7
+# captaincanvas
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-hykdp7)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/captaincanvas)
